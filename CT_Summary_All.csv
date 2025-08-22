@@ -1,0 +1,274 @@
+﻿Sl_no,Project_partner,State,Location,CT_no,Latitude,Longitude,Altitude,Grid_no,CT_loc_ID,PA_name,Range,Beat,Nearest_village,Date_of_Deployment,Habitat_type
+1,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rowa,P5,24.292133,92.167567,60,1,ROWA CT1,Rowa,Panisagar,Rowa,Panisagar,31-01-2024,-
+2,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rowa,P3,24.292133,92.167567,60,2,ROWA CT1,Rowa,Panisagar,Rowa,Panisagar,31-01-2024,-
+3,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rowa,P13,24.292883,92.163617,49,3,ROWA CT2,Rowa,Panisagar,Rowa,Panisagar,31-01-2024,-
+4,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rowa,P16,24.292883,92.163617,49,4,ROWA CT2,Rowa,Panisagar,Rowa,Panisagar,31-01-2024,-
+5,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rowa,P21,24.294433,92.163483,60,5,ROWA CT3,Rowa,Panisagar,Rowa,Panisagar,31-01-2024,-
+6,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rowa,P2,24.294433,92.163483,60,6,ROWA CT3,Rowa,Panisagar,Rowa,Panisagar,31-01-2024,-
+7,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rowa,P19,24.291667,92.171233,63,7,ROWA CT4,Rowa,Panisagar,Rowa,Panisagar,31-01-2024,-
+8,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rowa,P12,24.291667,92.171233,63,8,ROWA CT4,Rowa,Panisagar,Rowa,Panisagar,31-01-2024,-
+9,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P3,23.660975,91.295192,6m,9,SEPCT1,Sepahijala,Sepahijala,Sepahijala,Sepahijala,12-02-2024,-
+10,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P21,23.660975,91.295192,6m,10,SEPCT1,Sepahijala,Sepahijala,Sepahijala,Sepahijala,12-02-2024,-
+11,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,THT37,23.660836,91.295494,17,11,SEPCT2,Sepahijala,Sepahijala,Sepahijala,Sepahijala,12-02-2024,-
+12,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,THT39,23.660836,91.295494,17,12,SEPCT2,Sepahijala,Sepahijala,Sepahijala,Sepahijala,12-02-2024,-
+13,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P16,23.664703,91.308469,36,13,SEPCT3,Sepahijala,Sepahijala,Sepahijala,Sepahijala,12-02-2024,-
+14,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P13,23.664703,91.308469,36,14,SEPCT3,Sepahijala,Sepahijala,Sepahijala,Sepahijala,12-02-2024,-
+15,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P19,23.678172,91.323581,41,15,SEPCT4,Sepahijala,Sepahijala,Sepahijala,Sepahijala,12-02-2024,-
+16,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P12,23.678172,91.323581,41,16,SEPCT4,Sepahijala,Sepahijala,Sepahijala,Sepahijala,12-02-2024,-
+17,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,THT33,23.663956,91.304533,26,17,SEPCT5,Sepahijala,Sepahijala,Sepahijala,Sepahijala,12-02-2024,-
+18,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,THT31,23.662808,91.309311,22,18,SEPCT6,Sepahijala,Sepahijala,Sepahijala,Sepahijala,13-02-2024,-
+19,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P2,23.662808,91.309311,22,19,SEPCT6,Sepahijala,Sepahijala,Sepahijala,Sepahijala,13-02-2024,-
+20,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P22,23.660058,91.328478,37,20,SEPCT7,Sepahijala,Sepahijala,Sepahijala,Betkuchi,13-02-2024,-
+21,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P7,23.660058,91.328478,37,21,SEPCT7,Sepahijala,Sepahijala,Sepahijala,Betkuchi,13-02-2024,-
+22,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P6,23.661433,91.305522,23,22,SEPCT8,Sepahijala,Sepahijala,Sepahijala,Sepahijala,13-02-2024,-
+23,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sepahijala,P5,23.661433,91.305522,23,23,SEPCT8,Sepahijala,Sepahijala,Sepahijala,Sepahijala,13-02-2024,-
+24,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rajnagar,THT17,23.290983,91.371228,60,24,TRSHCT01,Trishna WLS,Rangamura,Rajnagar,Kashari,21-02-2024,-
+25,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rajnagar,THT24,23.290983,91.371228,60,25,TRSHCT01,Trishna WLS,Rangamura,Rajnagar,Kashari,21-02-2024,-
+26,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rajnagar,THT28,23.269589,91.373814,44,26,TRSHCT02,Trishna WLS,Rangamura,Rajnagar,Durgapur,21-02-2024,-
+27,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rajnagar,THT23,23.269589,91.373814,44,27,TRSHCT02,Trishna WLS,Rangamura,Rajnagar,Durgapur,21-02-2024,-
+28,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rajnagar,THT26,23.2459,91.366464,52,28,TRSHCT03,Trishna WLS,Rangamura,Rajnagar,Prakashnagar,22-02-2024,-
+29,Policy Advocacy and Reasearch Centre (PARC),Tripura,Rajnagar,THT15,23.2459,91.366464,52,29,TRSHCT03,Trishna WLS,Rangamura,Rajnagar,Prakashnagar,22-02-2024,-
+30,Policy Advocacy and Reasearch Centre (PARC),Tripura,Nidaya,P22,23.314306,91.364417,61,30,TRSHCT04,Trishna WLS,Rangamura,Nidaya,Kurulla,25-02-2024,-
+31,Policy Advocacy and Reasearch Centre (PARC),Tripura,Nidaya,P8,23.314306,91.364417,61,31,TRSHCT04,Trishna WLS,Rangamura,Nidaya,Kurulla,25-02-2024,-
+32,Policy Advocacy and Reasearch Centre (PARC),Tripura,Nidaya,P18,23.312472,91.352194,51,32,TRSHCT05,Trishna WLS,Rangamura,Nidaya,Mundabasti,21-02-2024,-
+33,Policy Advocacy and Reasearch Centre (PARC),Tripura,Nidaya,P20,23.312472,91.352194,51,33,TRSHCT05,Trishna WLS,Rangamura,Nidaya,Mundabasti,21-02-2024,-
+34,Policy Advocacy and Reasearch Centre (PARC),Tripura,-,THT18,23.279633,91.355783,38,34,TRSHCT06,Trishna WLS,-,-,Sabmara,21-02-2024,-
+35,Policy Advocacy and Reasearch Centre (PARC),Tripura,-,THT29,23.279633,91.355783,38,35,TRSHCT06,Trishna WLS,-,-,Sabmara,21-02-2024,-
+36,Policy Advocacy and Reasearch Centre (PARC),Tripura,-,THT22,23.295617,91.356233,59,36,TRSHCT07,Trishna WLS,-,-,Manortila,22-02-2024,-
+37,Policy Advocacy and Reasearch Centre (PARC),Tripura,-,THT27,23.295617,91.356233,59,37,TRSHCT07,Trishna WLS,-,-,Manortila,22-02-2024,-
+38,Policy Advocacy and Reasearch Centre (PARC),Tripura,-,THT25,23.294167,91.365533,48,38,TRSHCT08,Trishna WLS,-,-,Manortila,22-02-2024,-
+39,Policy Advocacy and Reasearch Centre (PARC),Tripura,-,THT14,23.294167,91.365533,48,39,TRSHCT08,Trishna WLS,-,-,Manortila,22-02-2024,-
+40,Policy Advocacy and Reasearch Centre (PARC),Tripura,-,THT13,23.30345,91.3652,58,40,TRSHCT09,Trishna WLS,-,-,Manortila,22-02-2024,-
+41,Policy Advocacy and Reasearch Centre (PARC),Tripura,-,THT11,23.30345,91.3652,58,41,TRSHCT09,Trishna WLS,-,-,Manortila,22-02-2024,-
+42,Policy Advocacy and Reasearch Centre (PARC),Tripura,Joychandpur,THT10,23.281083,91.399056,22,42,TRSHCT10,Trishna WLS,Rangamura,Joychandpur,Joychandpur,24-02-2024,-
+43,Policy Advocacy and Reasearch Centre (PARC),Tripura,Joychandpur,THT39,23.281083,91.399056,22,43,TRSHCT10,Trishna WLS,Rangamura,Joychandpur,Joychandpur,24-02-2024,-
+44,Policy Advocacy and Reasearch Centre (PARC),Tripura,Loharjum,-,23.232209,91.36371,-,44,TRSHCT11,Trishna WLS,Rajnagar,Loharjum,Loharjum,21-02-2024,-
+45,Policy Advocacy and Reasearch Centre (PARC),Tripura,Loharjum,-,23.232209,91.36371,-,45,TRSHCT11,Trishna WLS,Rajnagar,Loharjum,Loharjum,21-02-2024,-
+46,Policy Advocacy and Reasearch Centre (PARC),Tripura,Loharjum,THT32/P3,23.2375,91.36,-,46,TRSHCT12,Trishna WLS,Rajnagar,Loharjum,Loharjum,21-02-2024,-
+47,Policy Advocacy and Reasearch Centre (PARC),Tripura,Loharjum,THT12/P7,23.2375,91.36,-,47,TRSHCT12,Trishna WLS,Rajnagar,Loharjum,Loharjum,21-02-2024,-
+48,Policy Advocacy and Reasearch Centre (PARC),Tripura,-,THT21,23.249167,91.356944,-,48,TRSHCT13,Trishna WLS,Rangamura,-,-,21-02-2024,-
+49,Policy Advocacy and Reasearch Centre (PARC),Tripura,-,P17,23.249167,91.356944,-,49,TRSHCT13,Trishna WLS,Rangamura,-,-,21-02-2024,-
+50,Policy Advocacy and Reasearch Centre (PARC),Tripura,Steel Tower,THT38,23.270556,91.356389,-,50,TRSHCT14,Trishna WLS,Rangamura,Steel Tower,Steel Tower,21-02-2024,-
+51,Policy Advocacy and Reasearch Centre (PARC),Tripura,Steel Tower,THT40,23.270556,91.356389,-,51,TRSHCT14,Trishna WLS,Rangamura,Steel Tower,Steel Tower,21-02-2024,-
+52,Policy Advocacy and Reasearch Centre (PARC),Tripura,Mandaria,P15,-,-,-,52,TRSHCT16,-,-,Mandaria,Mandaria,22-02-2024,-
+53,Policy Advocacy and Reasearch Centre (PARC),Tripura,Mandaria,P9,-,-,-,53,TRSHCT16,-,-,Mandaria,Mandaria,22-02-2024,-
+54,Policy Advocacy and Reasearch Centre (PARC),Tripura,Gandachhera,P21,23.620278,91.789444,120,54,GUM_GAN_CT1,Gumti,Gandachhera,Gandachhera,Laxmipur,10-03-2024,-
+55,Policy Advocacy and Reasearch Centre (PARC),Tripura,Jagabandhu para,P7,23.673833,91.778694,153,55,GUM_JBP_CT1,Gumti,Gandachhera,Jagabandhu para,Dalirai para,10-03-2024,-
+56,Policy Advocacy and Reasearch Centre (PARC),Tripura,Jagabandhu para,THT19,23.673833,91.778694,153,56,GUM_JBP_CT1,Gumti,Gandachhera,Jagabandhu para,Dalirai para,10-03-2024,-
+57,Policy Advocacy and Reasearch Centre (PARC),Tripura,Barabari,P18,23.684122,91.835794,147,57,GUM_BAR_CT1,Gumti,Gandachhera,Barabari,Shikaripara,10-03-2024,-
+58,Policy Advocacy and Reasearch Centre (PARC),Tripura,Barabari,THT39,23.683964,91.836039,147,58,GUM_BAR_CT1,Gumti,Gandachhera,Barabari,Shikaripara,10-03-2024,-
+59,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kalajhari,P10,23.519167,91.777222,130,59,GUM_KAL_CT1,Gumti,Gandachhera,Kalajhari,Ajidapara,11-03-2024,-
+60,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kalajhari,THT26,23.519167,91.777222,130,60,GUM_KAL_CT1,Gumti,Gandachhera,Kalajhari,Ajidapara,11-03-2024,-
+61,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kalajhari,P16,23.552222,91.757278,133,61,GUM_KAL_CT2,Gumti,Gandachhera,Kalajhari,Montila,11-03-2024,-
+62,Policy Advocacy and Reasearch Centre (PARC),Tripura,Dhalajari,P9,23.582547,91.782467,107,62,GUM_DAL_CT1,Gumti,Gandachhera,Dhalajari,Montopara,11-03-2024,-
+63,Policy Advocacy and Reasearch Centre (PARC),Tripura,Dhalajari,THT24,23.582547,91.782467,107,63,GUM_DAL_CT1,Gumti,Gandachhera,Dhalajari,Montopara,11-03-2024,-
+64,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kalajhari,THT13,23.535733,91.764483,142,64,GUM_KAL_CT3,Gumti,Gandachhera,Kalajhari,Saduchandra Reangpara,11-03-2024,-
+65,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kalajhari,P20,23.535733,91.764483,142,65,GUM_KAL_CT3,Gumti,Gandachhera,Kalajhari,Ajidapara,11-03-2024,-
+66,Policy Advocacy and Reasearch Centre (PARC),Tripura,karmapara,P14,23.767906,91.781253,133,66,GUM_KAR_CT1,Gumti,Ganganagar,karmapara,Paltanpara,12-03-2024,-
+67,Policy Advocacy and Reasearch Centre (PARC),Tripura,karmapara,THT12,23.767906,91.781253,133,67,GUM_KAR_CT1,Gumti,Ganganagar,karmapara,Paltanpara,12-03-2024,-
+68,Policy Advocacy and Reasearch Centre (PARC),Tripura,Ganganagar,P6,23.766733,91.827233,115,68,GUM_GANG_CT1,Gumti,Ganganagar,Ganganagar,Gumseng,12-03-2024,-
+69,Policy Advocacy and Reasearch Centre (PARC),Tripura,Ganganagar,THT27,23.7651,91.828367,138,69,GUM_GANG_CT1,Gumti,Ganganagar,Ganganagar,Gumseng,12-03-2024,-
+70,Policy Advocacy and Reasearch Centre (PARC),Tripura,Ganganagar,P15,23.744167,91.815,-,70,GUM_GANG_CT2,Gumti,Ganganagar,Ganganagar,Radharambari,12-03-2024,-
+71,Policy Advocacy and Reasearch Centre (PARC),Tripura,Radharambari,P19,23.705167,91.79175,116,71,GUM_RAD_CT1,Gumti,Gananagar,Radharambari,Sardinkhapara,13-03-2024,-
+72,Policy Advocacy and Reasearch Centre (PARC),Tripura,Radharambari,THT18,23.738361,91.799889,118,72,GUM_RAD_CT2,Gumti,Gananagar,Radharambari,Karmapara,13-03-2024,-
+73,Policy Advocacy and Reasearch Centre (PARC),Tripura,Ganganagar,P8,23.747778,91.849444,130,73,GUM_GAN_CT3,Gumti,Ganganagar,Ganganagar,Panchajoy Para,13-03-2024,-
+74,Policy Advocacy and Reasearch Centre (PARC),Tripura,Ganganagar,THT10,23.747222,91.849444,130,74,GUM_GAN_CT3,Gumti,Ganganagar,Ganganagar,Panchajoy Para,13-03-2024,-
+75,Policy Advocacy and Reasearch Centre (PARC),Tripura,Ekjancharra,THT17,23.64525,91.734683,145,75,GUM_EKC_CT1,Gumti,Ampi,Ekjancharra,Debendrapara,13-03-2024,-
+76,Policy Advocacy and Reasearch Centre (PARC),Tripura,Ekjancharra,P13,23.64525,91.734683,145,76,GUM_EKC_CT1,Gumti,Ampi,Ekjancharra,Debendrapara,13-03-2024,-
+77,Policy Advocacy and Reasearch Centre (PARC),Tripura,Dangabari,THT22,23.695783,91.902433,119,77,GUM_DAN_CT1,Gumti,Ganganagar,Dangabari,Nobokumarpara,14-03-2024,-
+78,Policy Advocacy and Reasearch Centre (PARC),Tripura,Dangabari,P17,23.695783,91.902433,119,78,GUM_DAN_CT1,Gumti,Ganganagar,Dangabari,Nobokumarpara,14-03-2024,-
+79,Policy Advocacy and Reasearch Centre (PARC),Tripura,Dyke 4,THT35,23.498806,91.800528,106,79,GUM_DYK_CT1,Gumti,Raishyabri,Dyke 4,Tarmo Adam,14-03-2024,-
+80,Policy Advocacy and Reasearch Centre (PARC),Tripura,Dyke 4,THT15,23.498806,91.800528,106,80,GUM_DYK_CT1,Gumti,Raishyabri,Dyke 4,Tarmo Adam,14-03-2024,-
+81,Policy Advocacy and Reasearch Centre (PARC),Tripura,Dangabari,P2,23.705278,91.853611,-,81,GUM_DAN_CT1,Gumti,Ganganagar,Dangabari,Dangabari,14-03-2024,-
+82,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT02,23.714639,91.766167,184,82,GUM_KAK_CT1,Gumti,Mungiakami,Kakrachera,Bukho para,19-03-2024,-
+83,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT04,23.714639,91.766167,184,83,GUM_KAK_CT1,Gumti,Mungiakami,Kakrachera,Bukho para,19-03-2024,-
+84,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT07,23.803111,91.776972,-,84,GUM_KAK_CT2,Gumti,Mungiakami,Kakrachera,Nunachora,19-03-2024,-
+85,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT08,23.803111,91.776972,-,85,GUM_KAK_CT2,Gumti,Mungiakami,Kakrachera,Nunachora,19-03-2024,-
+86,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT 11,23.806111,91.731111,-,86,GUM_KAK_CT3,Gumti,Mungiakami,Kakrachera,Hakudia,19-03-2024,-
+87,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT32,23.806111,91.731111,-,87,GUM_KAK_CT3,Gumti,Mungiakami,Kakrachera,Haludia,19-03-2024,-
+88,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT40,23.783117,91.741467,139,88,GUM_KAK_CT4,Gumti,Mungiakami,Kakrachera,Tikolpara,19-03-2024,-
+89,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT38,23.783117,91.741467,139,89,GUM_KAK_CT4,Gumti,Mungiakami,Kakrachera,Tikolpara,19-03-2024,-
+90,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT14,23.798583,91.735017,153,90,GUM_KAK_CT5,Gumti,Mungiakami,Kakrachera,Kakrachera,19-03-2024,-
+91,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT01,23.765672,91.727386,184,91,GUM_KAK_CT6,Gumti,Mungiakami,Kakrachera,Datamosampara,19-03-2024,-
+92,Policy Advocacy and Reasearch Centre (PARC),Tripura,Kakrachera,THT09,23.763978,91.730617,203,92,GUM_KAK_CT5,Gumti,Mungiakami,Kakrachera,Datamosampara,19-03-2024,-
+93,Policy Advocacy and Reasearch Centre (PARC),Tripura,Sarbong,THT05,23.606,91.753944,138,93,GUM_SAR_CT1,Gumti,Amarpur,Sarbong,Chandrakumar para,22-03-2024,-
+94,Policy Advocacy and Reasearch Centre (PARC),Tripura,Nutanbazzar,THT21,23.489864,91.775078,122,94,GUM_NUT_CT1,Gumti,Amarpur,Nutanbazzar,Tularampara,23-03-2024,-
+95,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Tamhini khind,"T59, T72",18.42765,73.45266,853,1,"T59, T72",-,Paud,Tamhini khind,Tamhini khind,18-05-2025,Open forest
+96,Policy Advocacy and Reasearch Centre (PARC),Maharastra,"Mugaon, Bhuini","T49, T50",18.432683,73.501483,1110,2,"T49, T50",-,Paud,Mugaon,Mugaon,18-05-2025,Plateau
+97,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Temghar,"T76, T73",18.42785,73.5221,1081,3,"T76, T73",-,Paud,Temgahr,Temgahr,18-05-2025,Fairly dense near the road
+98,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Watunde,"T41, T34",18.42932,73.59072,987,4,"T41, T34",-,Paud,Watunde (Wajale),Watunde (Wajale),22-05-2025,Dried stream below plateau
+99,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Mutha,"T48, T77",18.42691,73.60954,971,5,"T48, T77",-,Paud,"Mutha, Malegaon","Mutha, Malegaon",19-05-2025,Heavily disturbed forest
+100,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Dhamanohol,"T53, T42",18.37666,73.43561,718,6,"T53, T42",-,Paud,Paud,Paud,17-05-2025,Dense forest
+101,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Sakhri,"T74, T78",18.3755,73.4855,1028,7,"T74, T78",-,Paud,Dhadavali,Dhadavali,18-05-2025,Dense forest
+102,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Daswe,"T40, T37",18.396533,73.53095,815,8,"T40, T37",-,Paud,Daswe,Daswe,17-05-2025,Dense forest
+103,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Mose Budruk,"T38, T43",18.401247,73.577466,762,9,"T38, T43",-,Velhe,Ambegaon,Ambegaon,17-05-2025,Degraded forest
+104,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Varasgaon,"T58, T71",18.40954,73.61309,703,10,"T58, T71",-,Velhe,Ambegaon,Ambegaon,17-05-2025,Degraded forest
+105,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Dapsare,"T57, T51",18.32503,73.42785,716,11,"T57, T51",-,Velhe,Dapsare,Dapsare,16-05-2025,Near water stream
+106,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Gondekhal,"T39, T47",18.347855,73.478957,765,12,"T39, T47",-,Velhe,Ambegaon,Ambegaon,16-05-2025,Dense forest adjoining stream
+107,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Kashedi,"T45, T36",18.35141,73.52383,705,13,"T45, T36",-,Velhe,Mangaon,Mangaon,16-05-2025,"Dense forest, road nearby"
+108,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Kadve ghat,"T56, T55",18.333494,73.58741,988,14,"T56, T55",-,Velhe,Mangaon,Mangaon,16-05-2025,Open forest
+109,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Khanu,"T44, T54",18.305908,73.4919,911,16,"T44, T54",-,Velhe,Harpud,Harpud,16-05-2025,Open forest
+110,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Pole,"T52, T35",18.311322,73.539948,899,17,"T52, T35",-,Velhe,Mangaon,Mangaon,16-05-2025,Open forest
+111,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Gevande,"T86, T70",18.282553,73.567018,875,18,"T86, T70",-,Velhe,Dhanep,Dhanep,15-05-2025,Dense forest adjoining open forest & plateau
+112,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Harpud,"T75, T64",18.260043,73.531322,755,19,"T75, T64",-,Velhe,Harpud,Harpud,15-05-2025,Near water stream
+113,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Kolambi,"T87, T80",18.2661,73.59581,808,20,"T87, T80",-,Velhe,Harpud,Harpud,15-05-2025,"Dense forest, hill near water body"
+114,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Khopadewadi,"T68, T66",18.25382,73.62093,936,21,"T68, T66",-,Velhe,Velhe,Velhe,14-05-2025,Dense forest (junction)
+115,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Pali,"T83, T89",18.24644,73.6632,961,22,"T83, T89",-,Velhe,Gunjavane,Gunjavane,14-05-2025,Dense forest
+116,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Kelad,"T81, T82",18.19847,73.57525,644,23,"T81, T82",-,Bhor,Kelad,Kelad,15-05-2025,Dense forest (junction)
+117,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Kumbale,"T13, T17",18.20818,73.631333,792,24,"T13, T17",-,Bhor,Kumbale,Kumbale,14-05-2025,Road
+118,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Dhere,"T85, T69",18.20197,73.68709,718,25,"T85, T69",-,Bhor,Dhere,Dhere,14-05-2025,"Dense forest, hill near water body"
+119,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Sanghvi Village,"T16, T23",18.169233,73.659117,606,27,"T16, T23",-,Bhor,Sanghavi Village,Sanghavi Village,13-05-2025,Cliff
+120,Policy Advocacy and Reasearch Centre (PARC),Maharastra,"Panghare, Dehen",T32 T90,18.16239,73.71837,1039,28,T32 T90,-,Bhor,Velvand,Velvand,13-05-2025,Semi decidious forest
+121,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Ashimpi,"T61, T3",18.117182,73.6375,833,29,"T61, T3",-,Bhor,-,-,13-05-2025,"Decidious, sloppy area"
+122,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Hirdoshi,"T67, T63",18.12127,73.67462,831,30,"T67, T63",-,Bhor,Hirdoshi,Hirdoshi,14-05-2025,"Moist/Scrub, Secondary forest"
+123,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Devghar,"T7, T20",18.1093,73.7123,791,31,"T7, T20",-,Bhor,Aapti,Aapti,14-05-2025,Degraded Forest
+124,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Kudali (Durgadi),"T28, T8",18.0689,73.625,848,32,"T28, T8",-,Bhor,Kudali,Kudali,13-05-2025,Decidious Forest
+125,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Parhar Khurd village,"T24, T31",18.080365,73.678173,782,33,"T24, T31",-,Bhor,Salav,Salav,13-05-2025,"Fairly open forest, Forest fire in recent month near river end"
+126,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Rayari,"T21, T18",18.06706,73.71854,811,34,"T21, T18",-,Bhor,"Rayi Beat, Dharambe village","Rayi Beat, Dharambe village",13-05-2025,-
+128,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Umbartha,"T4, T27",18.017967,73.6643,907,36,"T4, T27",-,Wai,Jambhali,Jambhali,12-05-2025,Dense forest
+129,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Washivali,"T29, T14",18.01404,73.71376,108,37,"T29, T14",-,Wai,Washivali,Washivali,12-05-2025,Plateau
+130,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Kshetra Mahabaleshwar (Arthur Point),"T6, T15",17.968433,73.640467,1202,38,"T6, T15",-,Mahabaleshwar,Shetra Mahabaleshwar,Shetra Mahabaleshwar,12-05-2025,Plateau
+131,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Jor/ Golewadi,"T12, T19",17.984386,73.667267,860,39,"T12, T19",-,Wai,-,-,12-05-2025,"Plateau, Dry deciduous forest with a dry stream running down to the river"
+132,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Kondhawale,"T5, T9",17.98483,73.71862,1169,40,"T5, T9",-,Wai,Vadoli,Vadoli,12-05-2025,Moist Evergreen
+133,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Nakinda,"T25, T11",17.94492,73.68818,1303,41,"T25, T11",-,Mahabaleshwar,Metgutade,Metgutade,12-05-2025,Dense forest
+134,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Avkali,"T1, T2",17.934683,73.707317,1263,42,"T1, T2",-,Mahabaleshwar,Metgutade,Metgutade,12-05-2025,Forest edge (end of plateau)
+135,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Kadve khind,"T79, T84",18.339094,73.613662,941,14A,"T79, T84",-,Velhe,Rule,Rule,15-05-2025,Dense forest adjoining mud road
+136,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Kari,"T60, T62",18.07851,73.74682,753,34A,"T60, T62",-,Bhor,Rayari,Rayari,13-05-2025,"Field, No place to deploy - Agriculture"
+137,Policy Advocacy and Reasearch Centre (PARC),Maharastra,Oholi,"T26, T30",18.02292,73.76578,1138,37A,"T26, T30",-,Wai,Wadavali,Wadavali,12-05-2025,Degraded
+138,Sahjeevan,Gujarat,Chotila,1279A3004882,22.242543,71.125763,-,7,DEPAKD001,-,-,-,-,28-03-2025,Vidi
+139,Sahjeevan,Gujarat,Chotila,1279A3004883,22.293712,71.167928,-,18,DEPBHOJ001,-,-,-,-,19-03-2025,Agricultural Land
+140,Sahjeevan,Gujarat,Chotila,1279A3004944,22.275391,71.164184,-,19,DEPBHOJ002,-,-,-,-,19-03-2025,Agricultural Land
+141,Sahjeevan,Gujarat,Chotila,179,22.272351,71.200303,-,33,DEPCHOB001,-,-,-,-,18-03-2025,Vidi
+142,Sahjeevan,Gujarat,Chotila,176,22.254602,71.196862,-,34,DEPCHOB002,-,-,-,-,18-03-2025,Vidi
+143,Sahjeevan,Gujarat,Chotila,1279A3005106,22.253971,71.125171,-,6,DEPFUL001,-,-,-,-,20-03-2025,Vidi
+144,Sahjeevan,Gujarat,Chotila,1279A3005104,22.275712,71.145857,-,12,DEPGUNDA001,-,-,-,-,13-03-2025,Agricultural Land
+145,Sahjeevan,Gujarat,Chotila,1279A3001873,22.274695,71.124307,-,5,DEPGUNDA002,-,-,-,-,13-03-2025,Reserved Forest
+146,Sahjeevan,Gujarat,Chotila,1279A3005110,22.239008,71.145192,-,14,DEPJIV001,-,-,-,-,28-03-2025,Reserved Forest
+147,Sahjeevan,Gujarat,Chotila,1279A3004889,22.256759,71.147248,-,13,DEPJIV002,-,-,-,-,29-03-2025,Agricultural Land
+148,Sahjeevan,Gujarat,Chotila,1279A3004950,22.234731,71.156169,-,21,DEPJIV003,-,-,-,-,03-04-2025,Reserved Forest
+149,Sahjeevan,Gujarat,Chotila,1279A3004888,22.288846,71.145049,-,11,DEPKAB001,-,-,-,-,21-03-2025,Vidi
+150,Sahjeevan,Gujarat,Chotila,178/177,22.305116,71.140904,-,10,DEPKAB002,-,-,-,-,18-03-2025,Vidi
+151,Sahjeevan,Gujarat,Chotila,1279A3005109,22.301095,71.132228,-,4,DEPKAB003,-,-,-,-,21-03-2025,Vidi
+152,Sahjeevan,Gujarat,Chotila,1279A3004947,22.331031,71.204588,-,30,DEPKHER001,-,-,-,-,04-03-2025,Reserved Forest
+153,Sahjeevan,Gujarat,Chotila,1279A3004887,22.312497,71.181772,-,24,DEPKHER002,-,-,-,-,21-03-2025,Agricultural Land
+154,Sahjeevan,Gujarat,Chotila,1279A3005108,22.314266,71.203179,-,31,DEPKHER003,-,-,-,-,21-03-2025,Revenue Wasteland
+155,Sahjeevan,Gujarat,Chotila,170,22.290331,71.180559,-,25,DEPMAHI001,-,-,-,-,18-03-2025,Vidi
+156,Sahjeevan,Gujarat,Chotila,171,22.274709,71.182649,-,26,DEPMAHI002,-,-,-,-,18-03-2025,Reserve Forest
+157,Sahjeevan,Gujarat,Chotila,175,22.290169,71.18048,-,25,DEPMAHIFOXDEN,-,-,-,-,18-03-2025,Vidi
+158,Sahjeevan,Gujarat,Chotila,1279A3005110,22.342404,71.200836,-,29,DEPMOK001,-,-,-,-,21-03-2025,Vidi
+159,Sahjeevan,Gujarat,Chotila,1279A3005103,22.348161,71.125301,-,1,DEPRAJ001,-,-,-,-,06-03-2025,Reserved Forest
+160,Sahjeevan,Gujarat,Chotila,1279A3005101,22.343928,71.149364,-,7,DEPRAJ002,-,-,-,-,13-03-2025,Vidi
+161,Sahjeevan,Gujarat,Chotila,1279A3005107,22.330091,71.12623,-,2,DEPRAJ003,-,-,-,-,06-03-2025,Agricultural Land
+162,Sahjeevan,Gujarat,Chotila,1279A3005102,22.329679,71.145358,-,9,DEPRAJ004,-,-,-,-,13-03-2025,Vidi
+163,Sahjeevan,Gujarat,Chotila,1279A3004941,22.330548,71.164757,-,16,DEPRAJ005,-,-,-,-,05-03-2025,Agricultural Land
+164,Sahjeevan,Gujarat,Chotila,174,22.313879,71.126327,-,3,DEPRAJ006,-,-,-,-,18-03-2025,Agricultural Land
+165,Sahjeevan,Gujarat,Chotila,173,22.31718,71.16398,-,17,DEPRAJ008,-,-,-,-,18-03-2025,Vidi
+166,Sahjeevan,Gujarat,Chotila,172,22.344551,71.158094,-,15,DEPRESH002,-,-,-,-,18-03-2025,Gauchar
+167,Sahjeevan,Gujarat,Chotila,177,22.349046,71.188171,-,22,DEPRESH003,-,-,-,-,18-03-2025,Agricultural Land
+168,Sahjeevan,Gujarat,Chotila,1279A3005021,22.330261,71.1848,-,23,DEPRESH004,-,-,-,-,04-03-2025,Agricultural Land
+169,Sahjeevan,Gujarat,Chotila,-,22.289765,71.198867,-,32,DEPSOD001,-,-,-,-,21-03-2025,Agricultural Land
+170,Sahjeevan,Gujarat,Chotila,1279A3001878,22.309479,71.175592,-,24,KHERHYENA,-,-,-,-,03-03-2025,Vidi
+171,Sahjeevan,Gujarat,Gugaliyana,172,22.533989,71.250761,-,-,DEPGUG01,-,-,-,-,03-12-2024,Reserved Forest
+172,Sahjeevan,Gujarat,Gugaliyana,177,22.534483,71.250236,-,-,DEPGUG02,-,-,-,-,03-12-2024,Reserved Forest
+173,Sahjeevan,Gujarat,Gugaliyana,174,22.534486,71.251467,-,-,DEPGUG06,-,-,-,-,03-12-2024,Reserved Forest
+174,Sahjeevan,Gujarat,Gugaliyana,179,22.534042,71.254189,-,-,DEPGUG07,-,-,-,-,16-12-2024,Reserved Forest
+175,Sahjeevan,Gujarat,Gugaliyana,175,22.534336,71.255881,-,-,DEPGUG08,-,-,-,-,16-12-2024,Reserved Forest
+176,Sahjeevan,Gujarat,Gugaliyana,173,22.535817,71.253478,-,-,DEPGUG09,-,-,-,-,16-12-2024,Reserved Forest
+177,Sahjeevan,Gujarat,Gugaliyana,170,22.535617,71.253294,-,-,DEPGUG10,-,-,-,-,16-12-2024,Reserved Forest
+178,Sahjeevan,Gujarat,Gugaliyana,176,22.535714,71.253189,-,-,DEPGUG11,-,-,-,-,16-12-2024,Reserved Forest
+179,Sahjeevan,Gujarat,Gugaliyana,171,22.538142,71.251214,-,-,DEPGUG12,-,-,-,-,16-12-2024,Reserved Forest
+180,Sahjeevan,Gujarat,Gugaliyana,178,22.535178,71.249353,-,-,DEPGUG13,-,-,-,-,16-12-2024,Reserved Forest
+181,Sahjeevan,Gujarat,Gugaliyana,173,22.535481,71.255142,-,-,DEPGUG14,-,-,-,-,27-12-2024,Reserved Forest
+182,Sahjeevan,Gujarat,Gugaliyana,1279A3005110,22.527542,71.255769,-,-,DEPGUG15,-,-,-,-,30-12-2024,Reserved Forest
+183,Sahjeevan,Gujarat,Gugaliyana,1279A3005021,22.527731,71.257212,-,-,DEPGUG16,-,-,-,-,30-12-2024,Reserved Forest
+184,Sahjeevan,Gujarat,Gugaliyana,1279A3005108,22.530568,71.258538,-,-,DEPGUG17,-,-,-,-,30-12-2024,Reserved Forest
+185,Sahjeevan,Gujarat,Gugaliyana,1279A3005104,22.524008,71.256066,-,-,DEPGUG18,-,-,-,-,30-12-2024,Reserved Forest
+186,Sahjeevan,Gujarat,Gugaliyana,1279A3005103,22.522686,71.2554,-,-,DEPGUG19,-,-,-,-,30-12-2024,Reserved Forest
+187,Sahjeevan,Gujarat,Gugaliyana,1279A3005106,22.523048,71.252658,-,-,DEPGUG20,-,-,-,-,30-12-2024,Reserved Forest
+188,Sahjeevan,Gujarat,Gugaliyana,1279A3001873,22.522936,71.251094,-,-,DEPGUG21,-,-,-,-,30-12-2024,Reserved Forest
+189,Sahjeevan,Gujarat,Gugaliyana,1279A3005101,22.550158,71.2628,-,-,DEPGUG22,-,-,-,-,03-01-2025,Reserved Forest
+190,Sahjeevan,Gujarat,Gugaliyana,1279A3005102,22.550783,71.260361,-,-,DEPGUG23,-,-,-,-,03-01-2025,Reserved Forest
+191,Sahjeevan,Gujarat,Gugaliyana,178,22.548918,71.258797,-,-,DEPGUG24,-,-,-,-,03-01-2025,Reserved Forest
+192,Sahjeevan,Gujarat,Gugaliyana,1279A3005109,22.548653,71.266394,-,-,DEPGUG25,-,-,-,-,03-01-2025,Reserved Forest
+193,Sahjeevan,Gujarat,Gugaliyana,1279A3005021,22.538608,71.260439,-,-,DEPGUG26,-,-,-,-,12-02-2025,Reserved Forest
+194,Sahjeevan,Gujarat,Gugaliyana,1279A3005110,22.534294,71.258753,-,-,DEPGUG27,-,-,-,-,12-02-2025,Reserved Forest
+195,Sahjeevan,Gujarat,Gugaliyana,1279A3005103,22.536442,71.258472,-,-,DEPGUG28,-,-,-,-,12-02-2025,Reserved Forest
+196,Sahjeevan,Gujarat,Gugaliyana,1279A3005104,22.543753,71.265639,-,-,DEPGUG29,-,-,-,-,17-02-2025,Reserved Forest
+197,Sahjeevan,Gujarat,Gugaliyana,1279A3005109,22.538519,71.267056,-,-,DEPGUG30,-,-,-,-,17-02-2025,Reserved Forest
+198,Sahjeevan,Gujarat,Gugaliyana,1279A3001873,22.540125,71.267911,-,-,DEPGUG31,-,-,-,-,17-02-2025,Reserved Forest
+199,Sahjeevan,Gujarat,Gugaliyana,1279A3005101,22.538842,71.268881,-,-,DEPGUG32,-,-,-,-,17-02-2025,Reserved Forest
+200,Sahjeevan,Gujarat,Gugaliyana,1279A3005102,22.537783,71.262014,-,-,DEPGUG33,-,-,-,-,17-02-2025,Reserved Forest
+201,Sahjeevan,Gujarat,Gugaliyana,1279A3005108,22.540516,71.259818,-,-,DEPGUG34,-,-,-,-,17-02-2025,Reserved Forest
+202,Sahjeevan,Gujarat,Vavdi,179,22.512758,71.247773,-,-,DEPVAV01,-,-,-,-,18-02-2025,Reserved Forest
+203,Sahjeevan,Gujarat,Vavdi,177,22.511909,71.24918,-,-,DEPVAV02,-,-,-,-,18-02-2025,Reserved Forest
+204,Sahjeevan,Gujarat,Vavdi,172,22.512898,71.249972,-,-,DEPVAV03,-,-,-,-,18-02-2025,Reserved Forest
+205,Sahjeevan,Gujarat,Vavdi,1279A3004883,22.513289,71.250989,-,-,DEPVAV04,-,-,-,-,18-02-2025,Reserved Forest
+206,Sahjeevan,Gujarat,Vavdi,173,22.512606,71.251215,-,-,DEPVAV05,-,-,-,-,18-02-2025,Reserved Forest
+207,Sahjeevan,Gujarat,Vavdi,1279A3004889,22.513803,71.252815,-,-,DEPVAV06,-,-,-,-,18-02-2025,Reserved Forest
+208,Sahjeevan,Gujarat,Vavdi,1279A3005106,22.513448,71.252514,-,-,DEPVAV07,-,-,-,-,18-02-2025,Reserved Forest
+209,Sahjeevan,Gujarat,Vavdi,1279A3004944,22.514391,71.253162,-,-,DEPVAV08,-,-,-,-,18-02-2025,Reserved Forest
+210,Sahjeevan,Gujarat,Vavdi,170,22.515289,71.250742,-,-,DEPVAV09,-,-,-,-,18-02-2025,Reserved Forest
+211,Sahjeevan,Gujarat,Vavdi,175,22.515873,71.252651,-,-,DEPVAV10,-,-,-,-,18-02-2025,Reserved Forest
+212,Sahjeevan,Gujarat,Vavdi,171,22.518713,71.251834,-,-,DEPVAV11,-,-,-,-,18-02-2025,Reserved Forest
+213,Sahjeevan,Gujarat,Vavdi,176,22.518587,71.250069,-,-,DEPVAV12,-,-,-,-,18-02-2025,Reserved Forest
+214,Sahjeevan,Gujarat,Vavdi,1279A3004942,22.518064,71.249268,-,-,DEPVAV13,-,-,-,-,18-02-2025,Reserved Forest
+215,Sahjeevan,Gujarat,Vavdi,174,22.519359,71.248689,-,-,DEPVAV14,-,-,-,-,18-02-2025,Reserved Forest
+216,Sahjeevan,Gujarat,Vavdi,1279A3004888,22.517202,71.249253,-,-,DEPVAV15,-,-,-,-,19-02-2025,Reserved Forest
+217,Sahjeevan,Gujarat,Vavdi,1279A3004950,22.518508,71.248529,-,-,DEPVAV16,-,-,-,-,19-02-2025,Reserved Forest
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
