@@ -1,0 +1,95 @@
+﻿Location,Camera trap no.,Latitude,Longitude,Altitude,Trap location,PA name,Range,Beat,Nearest village,Date of deployment
+Rowa,P5,N 24°17.528',E 92°10.054',60m,ROWA CT1,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P3,N 24°17.528',E 92°10.054',60m,ROWA CT1,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P13,N 24°17.573',E 92°09.817',49m,ROWA CT2,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P16,N 24°17.573',E 92°09.817',49m,ROWA CT2,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P21,N 24° 17.666',E 92° 09.809',60m,ROWA CT3,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P2,N 24° 17.666',E 92° 09.809',60m,ROWA CT3,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P19,N 24° 17.500',E 92° 10.274',63m,ROWA CT4,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P12,N 24° 17.500',E 92° 10.274',63m,ROWA CT4,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Sepahijala,P3,"N 23°39'39.51""","E 91°17'42.69""",6m,SEPCT1,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,P21,"N 23°39'39.51""","E 91°17'42.69""",6m,SEPCT1,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,THT37,"N 23°39'39.01""","E 91°17'43.78""",17m,SEPCT2,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,THT39,"N 23°39'39.01""","E 91°17'43.78""",17m,SEPCT2,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,P16,"N 23°39'52.93""","E 91°18'30.49""",36m,SEPCT3,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,P13,"N 23°39'52.93""","E 91°18'30.49""",36m,SEPCT3,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,P19,"N 23°40'41.42""","E 91°19'24.89""",41m,SEPCT4,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,P12,"N 23°40'41.42""","E 91°19'24.89""",41m,SEPCT4,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,THT33,"N 23°39'50.24""","E 91°18'16.32""",26m,SEPCT5,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,THT31,"N 23°39'46.11""","E 91°18'33.52""",22m,SEPCT6,Sepahijala,Sepahijala,Sepahijala,,13-Feb-24
+Sepahijala,P2,"N 23°39'46.11""","E 91°18'33.52""",22m,SEPCT6,Sepahijala,Sepahijala,Sepahijala,,13-Feb-24
+Sepahijala,P22,"N 23°39'36.21""","E 91°19'42.52""",37m,SEPCT7,Sepahijala,Sepahijala,Sepahijala,Betkuchi,13-Feb-24
+Sepahijala,P7,"N 23°39'36.21""","E 91°19'42.52""",37m,SEPCT7,Sepahijala,Sepahijala,Sepahijala,Betkuchi,13-Feb-24
+Sepahijala,P6,"N 23°39'41.16""","E 91°18'19.88""",23m,SEPCT8,Sepahijala,Sepahijala,Sepahijala,,13-Feb-24
+Sepahijala,P5,"N 23°39'41.16""","E 91°18'19.88""",23m,SEPCT8,Sepahijala,Sepahijala,Sepahijala,,13-Feb-24
+Trishna WLS,THT17,"N 23°17'27.54""","E 91°22'16.42""",60,TRSHCT01,Trishna WLS,Rangamura,Rajnagar,Kashari,21-Feb-24
+Trishna WLS,THT24,"N 23°17'27.54""","E 91°22'16.42""",60,TRSHCT01,Trishna WLS,Rangamura,Rajnagar,Kashari,21-Feb-24
+Trishna WLS,THT28,"N 23°16'10.52""","E 91°22'25.73""",44,TRSHCT02,Trishna WLS,Rangamura,Rajnagar,Durgapur,21-Feb-24
+Trishna WLS,THT23,"N 23°16'10.52""","E 91°22'25.73""",44,TRSHCT02,Trishna WLS,Rangamura,Rajnagar,Durgapur,21-Feb-24
+Trishna WLS,THT26,"N 23°14'45.24""","E 91°21'59.27""",52,TRSHCT03,Trishna WLS,Rangamura,Rajnagar,Prakashnagar,22-Feb-24
+Trishna WLS,THT15,"N 23°14'45.24""","E 91°21'59.27""",52,TRSHCT03,Trishna WLS,Rangamura,Rajnagar,Prakashnagar,22-Feb-24
+Trishna WLS,P22,"N 23°18'51.5""","E 91°21'51.9""",61,TRSHCT04,Trishna WLS,Rangamura,Nidaya,Kurulla,25-Feb-24
+Trishna WLS,P8,"N 23°18'51.5""","E 91°21'51.9""",61,TRSHCT04,Trishna WLS,Rangamura,Nidaya,Kurulla,25-Feb-24
+Trishna WLS,P18,"N 23°18'44.9""","E 91°21'07.9""",51,TRSHCT05,Trishna WLS,Rangamura,Nidaya,Mundabasti,21-Feb-24
+Trishna WLS,P20,"N 23°18'44.9""","E 91°21'07.9""",51,TRSHCT05,Trishna WLS,Rangamura,Nidaya,Mundabasti,21-Feb-24
+Trishna WLS,THT18,N 23°16.778',E 91°21.347',38,TRSHCT06,Trishna WLS,,,Sabmara,21-Feb-24
+Trishna WLS,THT29,N 23°16.778',E 91°21.347',38,TRSHCT06,Trishna WLS,,,Sabmara,21-Feb-24
+Trishna WLS,THT22,N 23°17.737',E 91°21.374',59,TRSHCT07,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT27,N 23°17.737',E 91°21.374',59,TRSHCT07,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT25,N 23°17.650',E 91°21.932',48,TRSHCT08,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT14,N 23°17.650',E 91°21.932',48,TRSHCT08,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT13,N 23°18.207',E 91°21.912',58,TRSHCT09,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT11,N 23°18.207',E 91°21.912',58,TRSHCT09,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT10,"N 23°16'51.9""","E 91°23'56.6""",22,TRSHCT10,Trishna WLS,Rangamura,Joychandpur,,24-Feb-24
+Trishna WLS,THT39,"N 23°16'51.9""","E 91°23'56.6""",22,TRSHCT10,Trishna WLS,Rangamura,Joychandpur,,24-Feb-24
+Trishna WLS,,N 23.232209°,E 91.36371°,,TRSHCT11,Trishna WLS,Rajnagar,Loharjum,,21-Feb-24
+Trishna WLS,,N 23.232209°,E 91.36371°,,TRSHCT11,Trishna WLS,Rajnagar,Loharjum,,21-Feb-24
+Trishna WLS,THT32/P3,"N 23°14'15""","E 91°21'36""",,TRSHCT12,Trishna WLS,Rajnagar,Loharjum,,21-Feb-24
+Trishna WLS,THT12/P7,"N 23°14'15""","E 91°21'36""",,TRSHCT12,Trishna WLS,Rajnagar,Loharjum,,21-Feb-24
+Trishna WLS,THT21,"N 23°14'57""","E 91°21'25""",,TRSHCT13,Trishna WLS,Rangamura,,,21-Feb-24
+Trishna WLS,P17,"N 23°14'57""","E 91°21'25""",,TRSHCT13,Trishna WLS,Rangamura,,,21-Feb-24
+Trishna WLS,THT38,"N 23°16'14""","E 91°21'23""",,TRSHCT14,Trishna WLS,Rangamura,Steel Tower,,21-Feb-24
+Trishna WLS,THT40,"N 23°16'14""","E 91°21'23""",,TRSHCT14,Trishna WLS,Rangamura,Steel Tower,,21-Feb-24
+,P15,,,,TRSHCT16,,,Mandaria,,22-Feb-24
+,P9,,,,TRSHCT16,,,Mandaria,,22-Feb-24
+Gumti,P21,"N 23°37'13""","E 91°47'22""",120,GUM_GAN_CT1,Gumti,Gandachhera,Gandachhera,Laxmipur,10-Mar-24
+Gumti,P7,"N 23°40'25.8""","E 91°46'43.3""",153,GUM_JBP_CT1,Gumti,Gandachhera,Jagabandhu para,Dalirai para,10-Mar-24
+Gumti,THT19,"N 23°40'25.8""","E 91°46'43.3""",153,GUM_JBP_CT1,Gumti,Gandachhera,Jagabandhu para,Dalirai para,10-Mar-24
+Gumti,P18,"N 23°41'02.84""","E 91°50'08.86""",147,GUM_BAR_CT1,Gumti,Gandachhera,Barabari,Shikaripara,10-Mar-24
+Gumti,THT39,"N 23°41'02.27""","E 91°50'09.74""",147,GUM_BAR_CT1,Gumti,Gandachhera,Barabari,Shikaripara,10-Mar-24
+Gumti,P10,"N 23°31'9""","E 91°46'38""",130,GUM_KAL_CT1,Gumti,Gandachhera,Kalajhari,Ajidapara,11-Mar-24
+Gumti,THT26,"N 23°31'9""","E 91°46'38""",130,GUM_KAL_CT1,Gumti,Gandachhera,Kalajhari,Ajidapara,11-Mar-24
+Gumti,P16,"N 23°33'08.0""","E 91°45'26.2""",133,GUM_KAL_CT2,Gumti,Gandachhera,Kalajhari,Montila,11-Mar-24
+Gumti,P9,"N 23°34'57.17""","E 91°46'56.88""",107,GUM_DAL_CT1,Gumti,Gandachhera,Dhalajari,Montopara,11-Mar-24
+Gumti,THT24,"N 23°34'57.17""","E 91°46'56.88""",107,GUM_DAL_CT1,Gumti,Gandachhera,Dhalajari,Montopara,11-Mar-24
+Gumti,THT13,N 23°32.144',E 91°45.869',142,GUM_KAL_CT3,Gumti,Gandachhera,Kalajhari,Saduchandra Reangpara,11-Mar-24
+Gumti,P20,N 23°32.144',E 91°45.869',142,GUM_KAL_CT3,Gumti,Gandachhera,Kalajhari,Ajidapara,11-Mar-24
+Gumti,P14,"N 23°46'04.46""","E 91°46'52.51""",133,GUM_KAR_CT1,Gumti,Ganganagar,karmapara,Paltanpara,12-Mar-24
+Gumti,THT12,"N 23°46'04.46""","E 91°46'52.51""",133,GUM_KAR_CT1,Gumti,Ganganagar,karmapara,Paltanpara,12-Mar-24
+Gumti,P6,N 23°46.004',E 91°49.634',115,GUM_GANG_CT1,Gumti,Ganganagar,Ganganagar,Gumseng,12-Mar-24
+Gumti,THT27,N 23°45.906',E 91°49.702',138,GUM_GANG_CT1,Gumti,Ganganagar,Ganganagar,Gumseng,12-Mar-24
+Gumti,P15,"N 23°44'39""","E 91°48'54""",,GUM_GANG_CT2,Gumti,Ganganagar,Ganganagar,Radharambari,12-Mar-24
+Gumti,P19,"N 23°42'18.6""","E 91°47'30.3""",116,GUM_RAD_CT1,Gumti,Gananagar,Radharambari,Sardinkhapara,13-Mar-24
+Gumti,THT18,"N 23°44'18.1""","E 91°47'59.6""",118,GUM_RAD_CT2,Gumti,Gananagar,Radharambari,Karmapara,13-Mar-24
+Gumti,P8,"N 23°44'52""","E 91°50'58""",130,GUM_GAN_CT3,Gumti,Ganganagar,Ganganagar,Panchajoy Para,13-Mar-24
+Gumti,THT10,"N 23°44'50""","E 91°50'58""",130,GUM_GAN_CT3,Gumti,Ganganagar,Ganganagar,Panchajoy Para,13-Mar-24
+Gumti,THT17,N 23°38.715',E 91°44.081',145,GUM_EKC_CT1,Gumti,Ampi,Ekjancharra,Debendrapara,13-Mar-24
+Gumti,P13,N 23°38.715',E 91°44.081',145,GUM_EKC_CT1,Gumti,Ampi,Ekjancharra,Debendrapara,13-Mar-24
+Gumti,THT22,N 23°41.747',E 91°54.146',119,GUM_DAN_CT1,Gumti,Ganganagar,Dangabari,Nobokumarpara,14-Mar-24
+Gumti,P17,N 23°41.747',E 91°54.146',119,GUM_DAN_CT1,Gumti,Ganganagar,Dangabari,Nobokumarpara,14-Mar-24
+Gumti,THT35,"N 23°29'55.7""","E 91°48'01.9""",106,GUM_DYK_CT1,Gumti,Raishyabri,Dyke 4,Tarmo Adam,14-Mar-24
+Gumti,THT15,"N 23°29'55.7""","E 91°48'01.9""",106,GUM_DYK_CT1,Gumti,Raishyabri,Dyke 4,Tarmo Adam,14-Mar-24
+Gumti,P2,"N 23°42'19""","E 91°51'13""",,GUM_DAN_CT1,Gumti,Ganganagar,Dangabari,Dangabari,14-Mar-24
+Gumti,THT02,"N 23°42'52.7""","E 91°45'58.2""",184,GUM_KAK_CT1,Gumti,Mungiakami,Kakrachera,Bukho para,19-Mar-24
+Gumti,THT04,"N 23°42'52.7""","E 91°45'58.2""",184,GUM_KAK_CT1,Gumti,Mungiakami,Kakrachera,Bukho para,19-Mar-24
+Gumti,THT07,"N 23°48'11.2""","E 91°46'37.1""",,GUM_KAK_CT2,Gumti,Mungiakami,Kakrachera,Nunachora,19-Mar-24
+Gumti,THT08,"N 23°48'11.2""","E 91°46'37.1""",,GUM_KAK_CT2,Gumti,Mungiakami,Kakrachera,Nunachora,19-Mar-24
+Gumti,THT 11,"N 23°48'22""","E 91°43'52""",,GUM_KAK_CT3,Gumti,Mungiakami,Kakrachera,Hakudia,19-Mar-24
+Gumti,THT32,"N 23°48'22""","E 91°43'52""",,GUM_KAK_CT3,Gumti,Mungiakami,Kakrachera,Haludia,19-Mar-24
+Gumti,THT40,N 23°46.987',E 91°44.488',139,GUM_KAK_CT4,Gumti,Mungiakami,Kakrachera,Tikolpara,19-Mar-24
+Gumti,THT38,N 23°46.987',E 91°44.488',139,GUM_KAK_CT4,Gumti,Mungiakami,Kakrachera,Tikolpara,19-Mar-24
+Gumti,THT14,N 23°47.915',E 91°44.101',153,GUM_KAK_CT5,Gumti,Mungiakami,Kakrachera,Kakrachera,19-Mar-24
+Gumti,THT01,"N 23°45'56.42""","E 91°43'38.59""",184,GUM_KAK_CT6,Gumti,Mungiakami,Kakrachera,Datamosampara,19-Mar-24
+Gumti,THT09,"N 23°45'50.32""","E 91°43'50.22""",203,GUM_KAK_CT5,Gumti,Mungiakami,Kakrachera,Datamosampara,19-Mar-24
+Gumti,THT05,"N 23°36'21.6""","E 91°45'14.2""",138,GUM_SAR_CT1,Gumti,Amarpur,Sarbong,Chandrakumar para,22-Mar-24
+Gumti,THT21,"N 23°29'23.51""","E 91°46'30.28""",122,GUM_NUT_CT1,Gumti,Amarpur,Nutanbazzar,Tularampara,23-Mar-24

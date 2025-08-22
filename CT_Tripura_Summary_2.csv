@@ -1,0 +1,95 @@
+Location,Camera trap no.,Latitude,Longitude,Altitude,Trap location,PA name,Range,Beat,Nearest village,Date of deployment
+Rowa,P5,24.292133,92.167567,60m,ROWA CT1,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P3,24.292133,92.167567,60m,ROWA CT1,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P13,24.292883,92.163617,49m,ROWA CT2,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P16,24.292883,92.163617,49m,ROWA CT2,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P21,24.294433,92.163483,60m,ROWA CT3,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P2,24.294433,92.163483,60m,ROWA CT3,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P19,24.291667,92.171233,63m,ROWA CT4,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Rowa,P12,24.291667,92.171233,63m,ROWA CT4,Rowa,Panisagar,Rowa,Panisagar,31-Jan-24
+Sepahijala,P3,23.660975,91.295192,6m,SEPCT1,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,P21,23.660975,91.295192,6m,SEPCT1,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,THT37,23.660836,91.295494,17m,SEPCT2,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,THT39,23.660836,91.295494,17m,SEPCT2,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,P16,23.664703,91.308469,36m,SEPCT3,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,P13,23.664703,91.308469,36m,SEPCT3,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,P19,23.678172,91.323581,41m,SEPCT4,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,P12,23.678172,91.323581,41m,SEPCT4,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,THT33,23.663956,91.304533,26m,SEPCT5,Sepahijala,Sepahijala,Sepahijala,,12-Feb-24
+Sepahijala,THT31,23.662808,91.309311,22m,SEPCT6,Sepahijala,Sepahijala,Sepahijala,,13-Feb-24
+Sepahijala,P2,23.662808,91.309311,22m,SEPCT6,Sepahijala,Sepahijala,Sepahijala,,13-Feb-24
+Sepahijala,P22,23.660058,91.328478,37m,SEPCT7,Sepahijala,Sepahijala,Sepahijala,Betkuchi,13-Feb-24
+Sepahijala,P7,23.660058,91.328478,37m,SEPCT7,Sepahijala,Sepahijala,Sepahijala,Betkuchi,13-Feb-24
+Sepahijala,P6,23.661433,91.305522,23m,SEPCT8,Sepahijala,Sepahijala,Sepahijala,,13-Feb-24
+Sepahijala,P5,23.661433,91.305522,23m,SEPCT8,Sepahijala,Sepahijala,Sepahijala,,13-Feb-24
+Trishna WLS,THT17,23.290983,91.371228,60,TRSHCT01,Trishna WLS,Rangamura,Rajnagar,Kashari,21-Feb-24
+Trishna WLS,THT24,23.290983,91.371228,60,TRSHCT01,Trishna WLS,Rangamura,Rajnagar,Kashari,21-Feb-24
+Trishna WLS,THT28,23.269589,91.373814,44,TRSHCT02,Trishna WLS,Rangamura,Rajnagar,Durgapur,21-Feb-24
+Trishna WLS,THT23,23.269589,91.373814,44,TRSHCT02,Trishna WLS,Rangamura,Rajnagar,Durgapur,21-Feb-24
+Trishna WLS,THT26,23.2459,91.366464,52,TRSHCT03,Trishna WLS,Rangamura,Rajnagar,Prakashnagar,22-Feb-24
+Trishna WLS,THT15,23.2459,91.366464,52,TRSHCT03,Trishna WLS,Rangamura,Rajnagar,Prakashnagar,22-Feb-24
+Trishna WLS,P22,23.314306,91.364417,61,TRSHCT04,Trishna WLS,Rangamura,Nidaya,Kurulla,25-Feb-24
+Trishna WLS,P8,23.314306,91.364417,61,TRSHCT04,Trishna WLS,Rangamura,Nidaya,Kurulla,25-Feb-24
+Trishna WLS,P18,23.312472,91.352194,51,TRSHCT05,Trishna WLS,Rangamura,Nidaya,Mundabasti,21-Feb-24
+Trishna WLS,P20,23.312472,91.352194,51,TRSHCT05,Trishna WLS,Rangamura,Nidaya,Mundabasti,21-Feb-24
+Trishna WLS,THT18,23.279633,91.355783,38,TRSHCT06,Trishna WLS,,,Sabmara,21-Feb-24
+Trishna WLS,THT29,23.279633,91.355783,38,TRSHCT06,Trishna WLS,,,Sabmara,21-Feb-24
+Trishna WLS,THT22,23.295617,91.356233,59,TRSHCT07,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT27,23.295617,91.356233,59,TRSHCT07,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT25,23.294167,91.365533,48,TRSHCT08,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT14,23.294167,91.365533,48,TRSHCT08,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT13,23.30345,91.3652,58,TRSHCT09,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT11,23.30345,91.3652,58,TRSHCT09,Trishna WLS,,,Manortila,22-Feb-24
+Trishna WLS,THT10,23.281083,91.399056,22,TRSHCT10,Trishna WLS,Rangamura,Joychandpur,,24-Feb-24
+Trishna WLS,THT39,23.281083,91.399056,22,TRSHCT10,Trishna WLS,Rangamura,Joychandpur,,24-Feb-24
+Trishna WLS,,23.232209,91.36371,,TRSHCT11,Trishna WLS,Rajnagar,Loharjum,,21-Feb-24
+Trishna WLS,,23.232209,91.36371,,TRSHCT11,Trishna WLS,Rajnagar,Loharjum,,21-Feb-24
+Trishna WLS,THT32/P3,23.2375,91.36,,TRSHCT12,Trishna WLS,Rajnagar,Loharjum,,21-Feb-24
+Trishna WLS,THT12/P7,23.2375,91.36,,TRSHCT12,Trishna WLS,Rajnagar,Loharjum,,21-Feb-24
+Trishna WLS,THT21,23.249167,91.356944,,TRSHCT13,Trishna WLS,Rangamura,,,21-Feb-24
+Trishna WLS,P17,23.249167,91.356944,,TRSHCT13,Trishna WLS,Rangamura,,,21-Feb-24
+Trishna WLS,THT38,23.270556,91.356389,,TRSHCT14,Trishna WLS,Rangamura,Steel Tower,,21-Feb-24
+Trishna WLS,THT40,23.270556,91.356389,,TRSHCT14,Trishna WLS,Rangamura,Steel Tower,,21-Feb-24
+,P15,,,,TRSHCT16,,,Mandaria,,22-Feb-24
+,P9,,,,TRSHCT16,,,Mandaria,,22-Feb-24
+Gumti,P21,23.620278,91.789444,120,GUM_GAN_CT1,Gumti,Gandachhera,Gandachhera,Laxmipur,10-Mar-24
+Gumti,P7,23.673833,91.778694,153,GUM_JBP_CT1,Gumti,Gandachhera,Jagabandhu para,Dalirai para,10-Mar-24
+Gumti,THT19,23.673833,91.778694,153,GUM_JBP_CT1,Gumti,Gandachhera,Jagabandhu para,Dalirai para,10-Mar-24
+Gumti,P18,23.684122,91.835794,147,GUM_BAR_CT1,Gumti,Gandachhera,Barabari,Shikaripara,10-Mar-24
+Gumti,THT39,23.683964,91.836039,147,GUM_BAR_CT1,Gumti,Gandachhera,Barabari,Shikaripara,10-Mar-24
+Gumti,P10,23.519167,91.777222,130,GUM_KAL_CT1,Gumti,Gandachhera,Kalajhari,Ajidapara,11-Mar-24
+Gumti,THT26,23.519167,91.777222,130,GUM_KAL_CT1,Gumti,Gandachhera,Kalajhari,Ajidapara,11-Mar-24
+Gumti,P16,23.552222,91.757278,133,GUM_KAL_CT2,Gumti,Gandachhera,Kalajhari,Montila,11-Mar-24
+Gumti,P9,23.582547,91.782467,107,GUM_DAL_CT1,Gumti,Gandachhera,Dhalajari,Montopara,11-Mar-24
+Gumti,THT24,23.582547,91.782467,107,GUM_DAL_CT1,Gumti,Gandachhera,Dhalajari,Montopara,11-Mar-24
+Gumti,THT13,23.535733,91.764483,142,GUM_KAL_CT3,Gumti,Gandachhera,Kalajhari,Saduchandra Reangpara,11-Mar-24
+Gumti,P20,23.535733,91.764483,142,GUM_KAL_CT3,Gumti,Gandachhera,Kalajhari,Ajidapara,11-Mar-24
+Gumti,P14,23.767906,91.781253,133,GUM_KAR_CT1,Gumti,Ganganagar,karmapara,Paltanpara,12-Mar-24
+Gumti,THT12,23.767906,91.781253,133,GUM_KAR_CT1,Gumti,Ganganagar,karmapara,Paltanpara,12-Mar-24
+Gumti,P6,23.766733,91.827233,115,GUM_GANG_CT1,Gumti,Ganganagar,Ganganagar,Gumseng,12-Mar-24
+Gumti,THT27,23.7651,91.828367,138,GUM_GANG_CT1,Gumti,Ganganagar,Ganganagar,Gumseng,12-Mar-24
+Gumti,P15,23.744167,91.815,,GUM_GANG_CT2,Gumti,Ganganagar,Ganganagar,Radharambari,12-Mar-24
+Gumti,P19,23.705167,91.79175,116,GUM_RAD_CT1,Gumti,Gananagar,Radharambari,Sardinkhapara,13-Mar-24
+Gumti,THT18,23.738361,91.799889,118,GUM_RAD_CT2,Gumti,Gananagar,Radharambari,Karmapara,13-Mar-24
+Gumti,P8,23.747778,91.849444,130,GUM_GAN_CT3,Gumti,Ganganagar,Ganganagar,Panchajoy Para,13-Mar-24
+Gumti,THT10,23.747222,91.849444,130,GUM_GAN_CT3,Gumti,Ganganagar,Ganganagar,Panchajoy Para,13-Mar-24
+Gumti,THT17,23.64525,91.734683,145,GUM_EKC_CT1,Gumti,Ampi,Ekjancharra,Debendrapara,13-Mar-24
+Gumti,P13,23.64525,91.734683,145,GUM_EKC_CT1,Gumti,Ampi,Ekjancharra,Debendrapara,13-Mar-24
+Gumti,THT22,23.695783,91.902433,119,GUM_DAN_CT1,Gumti,Ganganagar,Dangabari,Nobokumarpara,14-Mar-24
+Gumti,P17,23.695783,91.902433,119,GUM_DAN_CT1,Gumti,Ganganagar,Dangabari,Nobokumarpara,14-Mar-24
+Gumti,THT35,23.498806,91.800528,106,GUM_DYK_CT1,Gumti,Raishyabri,Dyke 4,Tarmo Adam,14-Mar-24
+Gumti,THT15,23.498806,91.800528,106,GUM_DYK_CT1,Gumti,Raishyabri,Dyke 4,Tarmo Adam,14-Mar-24
+Gumti,P2,23.705278,91.853611,,GUM_DAN_CT1,Gumti,Ganganagar,Dangabari,Dangabari,14-Mar-24
+Gumti,THT02,23.714639,91.766167,184,GUM_KAK_CT1,Gumti,Mungiakami,Kakrachera,Bukho para,19-Mar-24
+Gumti,THT04,23.714639,91.766167,184,GUM_KAK_CT1,Gumti,Mungiakami,Kakrachera,Bukho para,19-Mar-24
+Gumti,THT07,23.803111,91.776972,,GUM_KAK_CT2,Gumti,Mungiakami,Kakrachera,Nunachora,19-Mar-24
+Gumti,THT08,23.803111,91.776972,,GUM_KAK_CT2,Gumti,Mungiakami,Kakrachera,Nunachora,19-Mar-24
+Gumti,THT 11,23.806111,91.731111,,GUM_KAK_CT3,Gumti,Mungiakami,Kakrachera,Hakudia,19-Mar-24
+Gumti,THT32,23.806111,91.731111,,GUM_KAK_CT3,Gumti,Mungiakami,Kakrachera,Haludia,19-Mar-24
+Gumti,THT40,23.783117,91.741467,139,GUM_KAK_CT4,Gumti,Mungiakami,Kakrachera,Tikolpara,19-Mar-24
+Gumti,THT38,23.783117,91.741467,139,GUM_KAK_CT4,Gumti,Mungiakami,Kakrachera,Tikolpara,19-Mar-24
+Gumti,THT14,23.798583,91.735017,153,GUM_KAK_CT5,Gumti,Mungiakami,Kakrachera,Kakrachera,19-Mar-24
+Gumti,THT01,23.765672,91.727386,184,GUM_KAK_CT6,Gumti,Mungiakami,Kakrachera,Datamosampara,19-Mar-24
+Gumti,THT09,23.763978,91.730617,203,GUM_KAK_CT5,Gumti,Mungiakami,Kakrachera,Datamosampara,19-Mar-24
+Gumti,THT05,23.606,91.753944,138,GUM_SAR_CT1,Gumti,Amarpur,Sarbong,Chandrakumar para,22-Mar-24
+Gumti,THT21,23.489864,91.775078,122,GUM_NUT_CT1,Gumti,Amarpur,Nutanbazzar,Tularampara,23-Mar-24
